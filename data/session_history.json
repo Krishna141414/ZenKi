@@ -1,0 +1,50 @@
+[
+  {
+    "session_id": "Japanese:N4:10:11:2026-10-02T20:13:07",
+    "timestamp": "2026-10-02T20:13:07",
+    "deck": "Japanese N4",
+    "language": "Japanese",
+    "level": "N4",
+    "cards_selected": 10,
+    "good": 6,
+    "easy": 4,
+    "again": 1,
+    "total_ratings": 11,
+    "correct_ratings": 10,
+    "accuracy": 90.91,
+    "completed": 10,
+    "remaining": 0
+  },
+  {
+    "session_id": "Spanish:A1:10:12:2026-10-02T20:19:13",
+    "timestamp": "2026-10-02T20:19:13",
+    "deck": "Spanish A1",
+    "language": "Spanish",
+    "level": "A1",
+    "cards_selected": 10,
+    "good": 2,
+    "easy": 8,
+    "again": 2,
+    "total_ratings": 12,
+    "correct_ratings": 10,
+    "accuracy": 83.33,
+    "completed": 10,
+    "remaining": 0
+  },
+  {
+    "session_id": "Japanese:N5:10:12:2026-10-02T20:31:04",
+    "timestamp": "2026-10-02T20:31:04",
+    "deck": "Japanese N5",
+    "language": "Japanese",
+    "level": "N5",
+    "cards_selected": 10,
+    "good": 0,
+    "easy": 10,
+    "again": 2,
+    "total_ratings": 12,
+    "correct_ratings": 10,
+    "accuracy": 83.33,
+    "completed": 10,
+    "remaining": 0
+  }
+]
